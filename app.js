@@ -31,7 +31,7 @@ const getUser = async(username) => {
 
 
 // init call
-getUser("bhagirath-wscubetech")
+getUser("Kingsly62")
 
 
 const getRepos = async(username) => {
